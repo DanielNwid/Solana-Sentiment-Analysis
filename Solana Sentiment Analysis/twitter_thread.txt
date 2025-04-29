@@ -1,0 +1,15 @@
+Tweet 1:
+🔍 Investigating potential fraud on Solana via X sentiment using Messari's Signal API! Analyzed sentiment, momentum, and tweet volume to spot spikes that might signal hype or pump-and-dump schemes. #Solana #CryptoFraud #Messari
+
+Tweet 2:
+📊 Analyzed 8 days of X sentiment for Solana. Found 6 days (75.0%) with unusual activity (sentiment > avg + 0.5 std dev, tweet volume > 1.2x prev day, or momentum > 0.3).
+
+Tweet 3:
+⚠️ Suspicious days:
+- 2025-04-19 (Sentiment: 50.7, Tweets: 2955, Momentum: -0.36)
+- 2025-04-21 (Sentiment: 50.1, Tweets: 3600, Momentum: -0.35)
+- 2025-04-22 (Sentiment: 50.5, Tweets: 4517, Momentum: 0.37)
+
+Tweet 4:
+💡 Why it matters: Sudden X activity spikes can signal coordinated hype. Traders/builders, stay cautious! Code is open-sourced here: [Insert GitHub link] #REDACTEDHackathon @messaricrypto @heliuslabs @SuperteamEarn
+
